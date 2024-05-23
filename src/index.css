@@ -5,6 +5,7 @@
     --btnColor: #12229d;
     font-size: 62.5%;
     overflow-x: hidden;
+    background: linear-gradient(#e66465, #9198e5);
 }
 
 body, html{
